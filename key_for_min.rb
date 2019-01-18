@@ -8,6 +8,6 @@ def key_for_min_value(name_hash)
   elsif name_hash.each do |key, value|
     
   end
-    
+    smallest_value
 end
 end
